@@ -9,7 +9,7 @@ export default function ApiNotice() {
 
   return (
     <div 
-      className="fixed top-20 left-1/2 -translate-x-1/2 z-50 max-w-2xl w-full mx-4"
+      className="fixed top-28 left-1/2 -translate-x-1/2 z-40 max-w-2xl w-full mx-4"
       style={{
         animation: 'slideDown 0.3s ease-out'
       }}
