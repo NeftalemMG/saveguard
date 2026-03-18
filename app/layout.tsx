@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: 'SaveGuard - AI-Powered Subscription Management',
   description: 'Automatically detect, negotiate, and cancel wasteful subscriptions. Built for Canadians.',
   keywords: 'subscription management, save money, AI agent, Canadian fintech',
+  icons: {
+    icon: '/favicon.svg',
+  },
 }
 
 export default function RootLayout({
