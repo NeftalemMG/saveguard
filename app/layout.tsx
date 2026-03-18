@@ -13,7 +13,9 @@ export const metadata: Metadata = {
   description: 'Automatically detect, negotiate, and cancel wasteful subscriptions. Built for Canadians.',
   keywords: 'subscription management, save money, AI agent, Canadian fintech',
   icons: {
-    icon: '/favicon.svg',
+    icon: [
+      { url: '/icon.svg', type: 'image/svg+xml' },
+    ],
   },
 }
 
